@@ -1,12 +1,4 @@
-numpy==1.26.4
-Cython==3.0.10
-setuptools>=65.5.0
-
-streamlit==1.35.0
+streamlit>=1.32.0
 pandas==2.1.4
-scikit-learn==1.4.2
-plotly==5.22.0
-xgboost==2.0.3
-lightgbm==4.3.0
-
-pycaret[clustering]==3.3.1
+pycaret==3.3.2
+plotly>=5.20.0

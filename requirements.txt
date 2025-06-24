@@ -1,8 +1,11 @@
+numpy==1.26.4
+Cython==3.0.10
+setuptools>=65.5.0
+
 streamlit==1.35.0
 pandas==2.1.4
 pycaret==3.3.1
 plotly==5.22.0
 scikit-learn==1.4.2
-numpy==1.26.4
 xgboost==2.0.3
 lightgbm==4.3.0
